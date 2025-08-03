@@ -18,9 +18,9 @@ It demonstrates:
 
 ---
 
-- ## 🔹 Live Preview
+## 🔹 Live Preview
 
 If hosted with GitHub Pages, you can view it here:  
-**[Live Demo](https://yourusername.github.io/car-tyre-guide/)
+**[Live Demo](https://alexngurecoder.github.io/WD-Assignment1/)** 
 
 
