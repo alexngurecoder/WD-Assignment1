@@ -16,7 +16,4 @@ It demonstrates:
 - **SEO-friendly** with meta description, keywords, and headings  
 - **Accessible** to screen readers using descriptive text  
 
----
-
-## 🔹 File Structure
 
