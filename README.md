@@ -9,13 +9,6 @@ It demonstrates:
 
 ---
 
-## 🔹 Live Preview
-
-If hosted with GitHub Pages, you can view it here:  
-**[Live Demo](https://yourusername.github.io/car-tyre-guide/)** *(Replace with your GitHub Pages link)*
-
----
-
 ## 🔹 Features
 
 - **Step-by-step instructions** for changing a car tyre  
