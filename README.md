@@ -14,6 +14,13 @@ It demonstrates:
 - **Step-by-step instructions** for changing a car tyre  
 - **Image with caption** showing tyre replacement process  
 - **SEO-friendly** with meta description, keywords, and headings  
-- **Accessible** to screen readers using descriptive text  
+- **Accessible** to screen readers using descriptive text
+
+---
+
+- ## 🔹 Live Preview
+
+If hosted with GitHub Pages, you can view it here:  
+**[Live Demo](https://yourusername.github.io/car-tyre-guide/)
 
 
