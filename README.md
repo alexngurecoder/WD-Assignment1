@@ -4,7 +4,7 @@ This is a simple **HTML5 semantic web page** that provides a beginner-friendly g
 It demonstrates:
 
 - Proper **HTML5 semantic structure** (`header`, `main`, `section`, `article`, `footer`)  
-- **Accessibility** with meaningful headings and `alt` text for images  
+- **Accessibility** with meaningful headings 
 - **SEO best practices** with descriptive content and meta tags  
 
 ---
